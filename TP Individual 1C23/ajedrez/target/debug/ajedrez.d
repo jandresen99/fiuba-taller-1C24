@@ -1,0 +1,1 @@
+/Users/jandresen/Repos/fiuba-taller-tp-ind/ajedrez/target/debug/ajedrez: /Users/jandresen/Repos/fiuba-taller-tp-ind/ajedrez/src/chess.rs /Users/jandresen/Repos/fiuba-taller-tp-ind/ajedrez/src/lib.rs /Users/jandresen/Repos/fiuba-taller-tp-ind/ajedrez/src/main.rs /Users/jandresen/Repos/fiuba-taller-tp-ind/ajedrez/src/utils.rs
