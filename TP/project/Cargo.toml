@@ -1,0 +1,13 @@
+[workspace]
+resolver = "2"
+
+members = [
+    "server",
+    "drone",
+    "mqtt", 
+    "camera-system", 
+    "monitor",
+    "common",
+    "tests-integration",
+    "thread-pool",
+    "incident-recognition"]
